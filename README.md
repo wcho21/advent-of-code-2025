@@ -8,6 +8,7 @@
 - [Day 4 (Printing Department)][aoc-04]: [C++][sol-04]
 - [Day 5 (Cafeteria)][aoc-05]: [Python][sol-05]
 - [Day 6 (Trash Compactor)][aoc-06]: [Typescript][sol-06]
+- [Day 7 (Laboratories)][aoc-07]: [Java][sol-07]
 
 [aoc]: https://adventofcode.com/2025
 [aoc-01]: https://adventofcode.com/2025/day/1
@@ -16,9 +17,11 @@
 [aoc-04]: https://adventofcode.com/2025/day/4
 [aoc-05]: https://adventofcode.com/2025/day/5
 [aoc-06]: https://adventofcode.com/2025/day/6
+[aoc-07]: https://adventofcode.com/2025/day/7
 [sol-01]: ./day01/
 [sol-02]: ./day02/
 [sol-03]: ./day03/
 [sol-04]: ./day04/
 [sol-05]: ./day05/
 [sol-06]: ./day06/
+[sol-07]: ./day07/
