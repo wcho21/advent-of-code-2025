@@ -28,3 +28,9 @@
 [sol-06]: ./day06/
 [sol-07]: ./day07/
 [sol-08]: ./day08/
+
+## How to Run
+
+Each solution is written in a different language.
+Each file can be compiled or interpreted in local environments, but I decided to use a Docker container instead.
+The bash shell script `run.sh` is written for this purpose in each directory, so you should be able to get the answer by simply running `./run.sh`.
